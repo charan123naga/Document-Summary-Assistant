@@ -69,7 +69,7 @@ export default function App() {
     <main>
       <h1>Document Summarizer</h1>
       <p className="subtitle">
-        Upload a PDF/image, extract text, and get a concise summary.
+        Upload a PDF, extract text, and get a concise summary.
       </p>
 
       <div className="toolbar">
